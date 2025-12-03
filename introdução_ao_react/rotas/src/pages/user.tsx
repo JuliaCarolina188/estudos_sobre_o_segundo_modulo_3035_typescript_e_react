@@ -1,0 +1,7 @@
+export function user() {
+    return (
+        <div>
+            <h1>Usuário</h1>
+        </div>
+    )
+}
